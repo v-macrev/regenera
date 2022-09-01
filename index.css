@@ -1,0 +1,35 @@
+ .u-section-1 {
+  background-image: linear-gradient(115deg, #55bdfc, #2137cb);
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 456px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 170px;
+  height: 368px;
+  margin: 88px 0 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  text-shadow: 4px 4px 17px rgba(0,0,0,0.7);
+  text-transform: none;
+  font-weight: normal;
+  font-size: 3rem;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    text-transform: uppercase;
+    font-weight: 700;
+    width: auto;
+    margin: -306px 46px 60px 0;
+  }
+} .u-section-2 {
+  background-image: linear-gradient(#eaf4fd, #f2f2f2);
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 500px;
+}
