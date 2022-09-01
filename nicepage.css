@@ -38762,8 +38762,16 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-map-1 {
-    margin-top: -606px;
+    height: 190px;
+    margin-top: -583px;
     margin-bottom: 0;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-footer .u-text-1 {
+    margin-top: 293px;
   }
 }
 
