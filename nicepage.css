@@ -38707,7 +38707,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
  .u-footer {
-  background-image: linear-gradient(#55bdfc, #2137cb);
+  background-image: linear-gradient(#09163e, #55bdfc);
 }
 
 .u-footer .u-sheet-1 {
@@ -38762,7 +38762,6 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-map-1 {
-    height: 190px;
     margin-top: -583px;
     margin-bottom: 0;
     margin-right: initial;
