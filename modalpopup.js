@@ -129,6 +129,26 @@ $(document).ready(function() {
         showModal($('#botoxmodal'));
     });
 
+    jQuery('#preenchedoresbtn').click(function(e) {
+        showModal($('#preenchedoresmodal'));
+    });
+
+    jQuery('#emagrecimentobtn').click(function(e) {
+        showModal($('#emagrecimentomodal'));
+    });
+
+    jQuery('#botoxgluteobtn').click(function(e) {
+        showModal($('#botoxgluteomodal'));
+    });
+
+    jQuery('#prophililiftbtn').click(function(e) {
+        showModal($('#prophililiftmodal'));
+    });
+
+    jQuery('#skinboosterbtn').click(function(e) {
+        showModal($('#skinboostermodal'));
+    });
+
 	// OUTROS
 
     jQuery('#cancel').click(function(e) {
