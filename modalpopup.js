@@ -86,8 +86,8 @@ $(document).ready(function() {
         showModal($('#fasciamodal'));
     });
 
-	jQuery('#cicatrizpbtn').click(function(e) {
-        showModal($('#cicatrizpmodal'));
+	jQuery('#cicatrizbtn').click(function(e) {
+        showModal($('#cicatrizmodal'));
     });
 
 	jQuery('#ginecomastiabtn').click(function(e) {
@@ -184,10 +184,6 @@ $(document).ready(function() {
 
     jQuery('#protesemamabtn').click(function(e) {
         showModal($('#protesemamamodal'));
-    });
-
-    jQuery('#cicatrizgbtn').click(function(e) {
-        showModal($('#cicatrizgmodal'));
     });
 
     jQuery('#dermolipectomiabtn').click(function(e) {
