@@ -122,23 +122,155 @@ $(document).ready(function() {
         showModal($('#impsobrancelhamodal'));
     });
 
+    jQuery('#flancoplastiabtn').click(function(e) {
+        showModal($('#flancoplastiamodal'));
+    });
+
+    jQuery('#liftinglabialbtn').click(function(e) {
+        showModal($('#liftinglabialmodal'));
+    });
+
+    jQuery('#liftingpubisbtn').click(function(e) {
+        showModal($('#liftingpubismodal'));
+    });
+
+    jQuery('#lipopapadabtn').click(function(e) {
+        showModal($('#lipopapadamodal'));
+    });
+
+    jQuery('#lipopubisbtn').click(function(e) {
+        showModal($('#lipopubismodal'));
+    });
+
+    jQuery('#mentoplastiabtn').click(function(e) {
+        showModal($('#mentoplastiamodal'));
+    });
+
+    jQuery('#ninfoplastiabtn').click(function(e) {
+        showModal($('#ninfoplastiamodal'));
+    });
+
+    jQuery('#ninfoplastiahibribtn').click(function(e) {
+        showModal($('#ninfoplastiahibrimodal'));
+    });
+
+    jQuery('#otoplastiabtn').click(function(e) {
+        showModal($('#otoplastiamodal'));
+    });
+
+    jQuery('#plexrbtn').click(function(e) {
+        showModal($('#plexrmodal'));
+    });
+
+    jQuery('#panturrilhabtn').click(function(e) {
+        showModal($('#panturrilhamodal'));
+    });
+
+    jQuery('#rinoplastiabtn').click(function(e) {
+        showModal($('#rinoplastiamodal'));
+    });
+
+    jQuery('#rinoseptoplastiabtn').click(function(e) {
+        showModal($('#rinoseptoplastiamodal'));
+    });
+
+    jQuery('#rotretalhobtn').click(function(e) {
+        showModal($('#rotretalhomodal'));
+    });
+
+    jQuery('#vulvoplastiabtn').click(function(e) {
+        showModal($('#vulvoplastiamodal'));
+    });
+
+    jQuery('#protesemamabtn').click(function(e) {
+        showModal($('#protesemamamodal'));
+    });
+
+    jQuery('#cicatrizgbtn').click(function(e) {
+        showModal($('#cicatrizgmodal'));
+    });
+
+    jQuery('#dermolipectomiabtn').click(function(e) {
+        showModal($('#dermolipectomiamodal'));
+    });
+
+    jQuery('#gluteoplastiabtn').click(function(e) {
+        showModal($('#gluteoplastiamodal'));
+    });
+
+    jQuery('#impcapilarbtn').click(function(e) {
+        showModal($('#impcapilarmodal'));
+    });
+
+    jQuery('#liftingcervicalbtn').click(function(e) {
+        showModal($('#liftingcervicalmodal'));
+    });
+
+    jQuery('#liftingtercomediobtn').click(function(e) {
+        showModal($('#liftingtercomediomodal'));
+    });
+
+    jQuery('#liftinggluteobtn').click(function(e) {
+        showModal($('#liftinggluteomodal'));
+    });
+
+    jQuery('#liftingtemporalbtn').click(function(e) {
+        showModal($('#liftingtemporalmodal'));
+    });
+
+    jQuery('#liftingtotalscbtn').click(function(e) {
+        showModal($('#liftingtotalscmodal'));
+    });
+
+    jQuery('#lipoesculturabtn').click(function(e) {
+        showModal($('#lipoesculturamodal'));
+    });
+
+    jQuery('#mastectomiaradicalbtn').click(function(e) {
+        showModal($('#mastectomiaradicalmodal'));
+    });
+
+    jQuery('#mamoplastiaredutorabtn').click(function(e) {
+        showModal($('#mamoplastiaredutoramodal'));
+    });
+
+    jQuery('#mastopexiabtn').click(function(e) {
+        showModal($('#mastopexiamodal'));
+    });
+
+    jQuery('#ritidoplastiabtn').click(function(e) {
+        showModal($('#ritidoplastiamodal'));
+    });
+
+    jQuery('#torsoplastiabtn').click(function(e) {
+        showModal($('#torsoplastiamodal'));
+    });
+
+    jQuery('#trocadeprotesebtn').click(function(e) {
+        showModal($('#trocadeprotesemodal'));
+    });
+
 
 	// ESTÉTICOS
 
-	jQuery('#botoxbtn').click(function(e) {
-        showModal($('#botoxmodal'));
-    });
-
-    jQuery('#preenchedoresbtn').click(function(e) {
+	jQuery('#preenchedoresbtn').click(function(e) {
         showModal($('#preenchedoresmodal'));
     });
-
+    
+    jQuery('#botoxgluteobtn').click(function(e) {
+        showModal($('#botoxgluteomodal'));
+    });
+    
     jQuery('#emagrecimentobtn').click(function(e) {
         showModal($('#emagrecimentomodal'));
     });
+    
+    jQuery('#botoxbtn').click(function(e) {
+        showModal($('#botoxmodal'));
+    });
 
-    jQuery('#botoxgluteobtn').click(function(e) {
-        showModal($('#botoxgluteomodal'));
+    jQuery('#celulitebtn').click(function(e) {
+        showModal($('#celulitemodal'));
     });
 
     jQuery('#prophililiftbtn').click(function(e) {
@@ -147,10 +279,6 @@ $(document).ready(function() {
 
     jQuery('#skinboosterbtn').click(function(e) {
         showModal($('#skinboostermodal'));
-    });
-
-    jQuery('#celulitebtn').click(function(e) {
-        showModal($('#celulitemodal'));
     });
 
 	// OUTROS
