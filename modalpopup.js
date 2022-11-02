@@ -70,7 +70,7 @@ $(document).ready(function() {
         showModal($('#braquioplastiamodal'));
     });
 
-	jQuery('#browlifitingbtn').click(function(e) {
+	jQuery('#browliftingbtn').click(function(e) {
         showModal($('#browliftingmodal'));
     });
 
