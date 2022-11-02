@@ -149,6 +149,10 @@ $(document).ready(function() {
         showModal($('#skinboostermodal'));
     });
 
+    jQuery('#celulitebtn').click(function(e) {
+        showModal($('#celulitemodal'));
+    });
+
 	// OUTROS
 
     jQuery('#cancel').click(function(e) {
