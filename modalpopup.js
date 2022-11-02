@@ -115,7 +115,7 @@ $(document).ready(function() {
     });
 
 	jQuery('#exeresebtn').click(function(e) {
-        showModal($('#exerecemodal'));
+        showModal($('#exeresemodal'));
     });
 
 	jQuery('#impsobrancelhabtn').click(function(e) {
