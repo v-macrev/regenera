@@ -222,8 +222,8 @@ $(document).ready(function() {
         showModal($('#lipoesculturamodal'));
     });
 
-    jQuery('#mastectomiasubcutaneabtn').click(function(e) {
-        showModal($('#mastectomiasubcutaneamodal'));
+    jQuery('#mastectomiabtn').click(function(e) {
+        showModal($('#mastectomiamodal'));
     });
 
     jQuery('#mamoplastiaredutorabtn').click(function(e) {
