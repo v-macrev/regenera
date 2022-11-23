@@ -226,6 +226,10 @@ $(document).ready(function() {
         showModal($('#mastectomiamodal'));
     });
 
+    jQuery('#clitoroplastiabtn').click(function(e) {
+        showModal($('#clitoroplastiamodal'));
+    });
+
     jQuery('#mamoplastiaredutorabtn').click(function(e) {
         showModal($('#mamoplastiaredutoramodal'));
     });
