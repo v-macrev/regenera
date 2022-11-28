@@ -1,5 +1,80 @@
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 
+.image-quemsomos {
+  height: 454px;
+  width: 100%;
+  margin-top: 37px;
+  margin-bottom: 0;
+  opacity: 30%;
+}
+
+.quemsomos {
+  box-shadow: 5px 5px 20px 0 rgba(9,22,62,0.4);
+  background-image: linear-gradient(rgba(11,11,11,0.4), #09163e);
+  width: 100%;
+  height: auto;
+  min-height: 394px;
+  margin: -394px 0 0;
+}
+@media (max-width: 1199px) {
+  .quemsomos {
+  margin-right: initial;
+  margin-left: initial;
+  width: auto;
+  height: auto;
+}
+
+.image-quemsomos {
+  margin-top: -181px;
+}
+
+
+}
+@media (max-width: 991px) {
+  .quemsomos {
+    min-height: 437px;
+    margin-top: -437px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .image-quemsomos {
+    height: 436px;
+    margin-top: 37px;
+  }
+}
+@media (max-width: 767px) {
+
+  .quemsomos {
+    min-height: 513px;
+    margin-top: -513px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .image-quemsomos {
+    height: 512px;
+  }
+
+}
+@media (max-width: 575px) {
+
+  .quemsomos {
+    min-height: 454px;
+    margin-top: -454px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .image-quemsomos {
+    height: 454px;
+  }
+
+}
+
 .float{
   position:fixed;
   width:60px;
